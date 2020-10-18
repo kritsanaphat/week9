@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(5,19): error C2065: 'i': undeclared identifier
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(11,2): error C2562: 'frist': 'void' function returning a value
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(5): message : see declaration of 'frist'
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(13,21): error C2065: 'i': undeclared identifier
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(19,2): error C2562: 'secound': 'void' function returning a value
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(13): message : see declaration of 'secound'
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(25,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(27,14): error C2664: 'void frist(char [])': cannot convert argument 1 from 'char' to 'char []'
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(27,13): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(5,6): message : see declaration of 'frist'
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(30,16): error C2664: 'void secound(char [])': cannot convert argument 1 from 'char' to 'char []'
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(30,15): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\Kritsanaphat\source\week9\week9\Source.cpp(13,6): message : see declaration of 'secound'
